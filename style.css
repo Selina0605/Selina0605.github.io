@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  color: #a78fea;
+
+}
+
+h2 {
+  text-align: left;
+  font-size: 30px;
+}
+
+a {
+  color: #8a82f2; /* Modified link color */
+}
+
+h3 {
+  text-align: left;
+  font-size: 30px;
+}
+h4 {
+  text-align: left;
+  font-size: 30px;
+}
